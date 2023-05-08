@@ -3,11 +3,6 @@
     flex-wrap: wrap;
 }
 
-.more-screen .icon-row i{
-    margin-right: 10px;
-}
-
-
 .more-suggestions{
     margin-top: 50px;
     border-top: var(--main-border);
@@ -44,4 +39,14 @@
 .more-suggestions__icon-image i{
     font-size: 32px;
     color: white;
+}
+
+.icon-row__icon{
+    position: relative;
+}
+
+.icon-row__icon .nav__alert{
+    top: -10px;
+    right: 20px
+
 }

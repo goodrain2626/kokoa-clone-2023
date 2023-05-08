@@ -21,13 +21,13 @@
 
 .nav__alert{
     background-color: tomato;
-    width: 10px;
-    height: 10px;
-    border-radius: 5px;
+    width: 7px;
+    height: 7px;
+    border-radius: 50%;
     display: block;
     position: absolute;
     right: -10px;
-    top: -15px;
+    top: -10px;
 }
 
 @keyframes notificationAnimation {
