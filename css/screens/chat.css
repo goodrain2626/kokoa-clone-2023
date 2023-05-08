@@ -76,7 +76,7 @@
 }
 
 .message-row:nth-child(4){
-    transform: translateX(-55vw);
+    transform: translateX(-65vw);
     animation-delay: 1s;
 }
 
@@ -230,7 +230,7 @@
     opacity: 0;
 }
 
-.reply input:focus{
+.replyinput:focus{
     width: 95vw;
     transform: translateX(-13%) translateY(-80px);
 }
